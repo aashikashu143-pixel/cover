@@ -2,13 +2,15 @@ body {
     margin: 0;
     padding: 0;
     background: white;
-    
+      
+
+
 }
 
 .container {
     width: 520px;
     height: 650px;
-    background-image:url('jiraiya-naruto-naruto-dzhiraiia-ulybka.webp');
+    background-image:url('Screenshot 2025-12-16 141540.png');
     background-size: cover;
     background-position: center;
     border: 20px solid black;
