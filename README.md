@@ -162,7 +162,7 @@ h1 {
 ~~~
 
 ## OUTPUT:
-![alt text](<Screenshot 2025-12-15 232305.png>)
+![alt text](<Screenshot 2025-12-16 143510.png>)
 
 ## RESULT:
 The program for designing book back cover page using HTML and CSS is completed successfully.
